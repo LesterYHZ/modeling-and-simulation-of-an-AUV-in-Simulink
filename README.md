@@ -5,6 +5,8 @@ Welcome to the AUV Demo.
 
 This demonstration project covers a few sections of the entire development worflow for an autonomous underwater vehicle and includes several reference examples that are provided for exploration of different MathWorks&reg; tool capabilities.
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=LesterYHZ/modeling-and-simulation-of-an-AUV-in-Simulink&project=https://github.com/LesterYHZ/modeling-and-simulation-of-an-AUV-in-Simulink/blob/master/AUVDemo.prj)
+
 **Highlighted Workflow Sections:**
 - Developing the Digital Thread
 - Modeling the Vehicle Platform
